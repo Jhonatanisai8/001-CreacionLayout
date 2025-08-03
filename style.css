@@ -1,0 +1,46 @@
+header,
+article,
+footer,
+section,
+nav,
+aside {
+    display: block;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    background-color: #fff;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 960px;
+    background-color: #ff6;
+    margin: 0 auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+p,
+h1,
+h2,
+h3 {
+    margin: 0;
+    padding: 0;
+}
+
+/* etiquestas de estructira  */
+header {
+    height: 90px;
+    background-color: #76a68d;
+}
+
+article {
+    height: 460px;
+    background-color: #bcd5b0;
+}
+footer {
+    height: 60px;
+    background-color: #898c70;
+}
