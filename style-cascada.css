@@ -1,0 +1,61 @@
+h1 {
+    font-size: 2.2em;
+    color: white;
+    text-align: center;
+}
+
+h2 {
+    font-size: 1.8em;
+    color: #f2e3b6;
+    text-align: center;
+    padding: .2em;
+}
+
+h3 {
+    font-size: .8em;
+    color: #f2e3b6;
+    text-align: center;
+}
+
+p {
+    font-size: 1em;
+    padding-top: 1em;
+    padding-right: 1em;
+    padding-left: 1em;
+    line-height: 1.4em;
+}
+
+
+
+
+img {
+    width: 10em;
+}
+
+/* clases  */
+.izquierda {
+    float: left;
+    margin-right: 1em;
+}
+
+.derecha {
+    float: right;
+    margin-left: 1em;
+}
+
+ul {
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: center;
+}
+
+li {
+    /* border: 1px solid black; */
+    list-style: none;
+    color: #f2e3b6;
+}
+
+a {
+    text-decoration: none;
+    color: #f2e3b6;
+}

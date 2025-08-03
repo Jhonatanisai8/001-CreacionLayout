@@ -29,18 +29,3 @@ h3 {
     margin: 0;
     padding: 0;
 }
-
-/* etiquestas de estructira  */
-header {
-    height: 90px;
-    background-color: #76a68d;
-}
-
-article {
-    height: 460px;
-    background-color: #bcd5b0;
-}
-footer {
-    height: 60px;
-    background-color: #898c70;
-}
